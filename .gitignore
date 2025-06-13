@@ -1,0 +1,22 @@
+# Ignore all bin and obj folders
+bin/
+obj/
+
+# Ignore all files with the .pdb extension (Program Debug Database files)
+*.pdb
+
+# Ignore all files with the .cache extension (Cache files)
+*.cache
+
+# Ignore all files in the Debug directory
+Debug/
+
+# Ignore all files in the .vs directory
+.vs/
+
+# Ignore all files related to deployment
+*.pubxml
+*.user
+*.json
+*.user
+
